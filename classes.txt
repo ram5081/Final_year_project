@@ -1,0 +1,25 @@
+table
+laptop
+Mouse
+Bottle
+Goggle
+Notebook
+Bag
+bat
+ball
+bulb
+tube light
+fan
+footware
+shoes
+chair
+comb
+watch
+keys
+Switch Board
+pot
+pen
+pencil
+hat
+Mobile
+toothbrush
